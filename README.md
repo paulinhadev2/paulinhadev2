@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<div align="leftr">
+<div align="left">
 <img src="https://images4.alphacoders.com/882/thumbbig-882921.webp" width="700px" />
 </div>
 
