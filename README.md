@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulinhadev2
-- 👀 I’m interested in postar meus códigos.
+- 👀 I’m interested in share my codes.
 - 🌱 I’m currently learning Devops and Backend.     
 - 💞️ I’m looking to collaborate on Frontend.
 - 📫 How to reach me JavaScript.
