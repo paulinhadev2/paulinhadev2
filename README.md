@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @paulinhadev2
 - 👀 I’m interested in postar meus códigos.
-- 🌱 I’m currently learning Devops and Backend. <div align="right">
+- 🌱 I’m currently learning Devops and Backend. 
+<div align="right">
 <img src="https://i.pinimg.com/originals/30/6a/96/306a9698bd2b770b6306eae44e1a7698.jpg" width="200px"  />
 </div>
 - 💞️ I’m looking to collaborate on Frontend.
