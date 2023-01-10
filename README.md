@@ -11,8 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<div align="right">
-<img src="https://images4.alphacoders.com/882/thumbbig-882921.webp" width="70px" />
+![image](https://user-images.githubusercontent.com/121134832/211650551-3c501542-d151-40e2-8cf5-2ac7d94d41bb.png)        <div align="right">
+<img src="https://images4.alphacoders.com/882/thumbbig-882921.webp" width="120px" box-radius:"60px";
+ />
 </div>
 
 
