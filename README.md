@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-       <div align="right"> <img src="https://images4.alphacoders.com/882/thumbbig-882921.webp" width="200px" border-radius="70px"
+       <div align="right"> <img src="https://images4.alphacoders.com/882/thumbbig-882921.webp" width="200px" 
  />
 </div>
 
