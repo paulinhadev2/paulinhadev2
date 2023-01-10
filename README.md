@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
  
 
 
-<p align = "center">
-  <img src = "https://images4.alphacoders.com/882/thumb-1920-882921.png">
- 
+
+<p align="left">
+  <img src="https://images4.alphacoders.com/882/thumb-1920-882921.pn" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 </p>
