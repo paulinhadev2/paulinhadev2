@@ -13,14 +13,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-  <img src="https://images4.alphacoders.com/882/thumb-1920-882921.png">
+ 
 
 
-<style>
-  
- .img {
-    max-width: 100%;
-    max-height: 100%;
-}
-  
-  </style>
+<p align = "center">
+  <img src = "https://images4.alphacoders.com/882/thumb-1920-882921.png">
+ 
+</p>
