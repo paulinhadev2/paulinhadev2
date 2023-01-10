@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <style>
   
- img {
+ .img {
     max-width: 100%;
     max-height: 100%;
 }
