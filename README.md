@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="right">
-<img src="https://images6.alphacoders.com/126/thumbbig-1265353.webp" width="200px" border-radius:"60px" />
+<img src="https://images6.alphacoders.com/126/thumbbig-1265353.webp" width="200px" ; border-radius="60px" />
 </div>
 
 
