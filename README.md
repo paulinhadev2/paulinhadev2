@@ -15,19 +15,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-  <img src="https://images4.alphacoders.com/882/thumbbig-882921.webp" alt="Minha Figura">
-
-<style>
-
-#tomoyo {
-    width: 500px;
-    height: 200px;
-    overflow: hidden; /* Faz o div não aumentar a altura por causa da imagem */
-}
-
-img {
-    border: 1px solid red;
-    width: 100%;
-}
-  
-  </styke>
