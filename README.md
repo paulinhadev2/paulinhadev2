@@ -19,14 +19,10 @@ You can click the Preview link to take a look at your changes.
 </div>
  
 <style>
-
- .box{
-
-	 	width: 150px;
-
+div.box {
+	width: 150px;
 	display: inline-block;
- }
-  
+}
 </style>
 
 
