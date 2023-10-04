@@ -1,4 +1,3 @@
-<div class="box"> 
 
 - 👋 Hi, I’m @paulinhadev2
 - 👀 I’m interested in share my codes.
@@ -16,14 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 <img src = https://user-images.githubusercontent.com/121134832/211650551-3c501542-d151-40e2-8cf5-2ac7d94d41bb.png />
 
-</div>
- 
-<style>
-div.box {
-	width: 150px;
-	display: inline-block;
-}
-</style>
+.img{
+
+  float: left;
+  width: 50px;
 
 
 ![image](https://user-images.githubusercontent.com/121134832/211650551-3c501542-d151-40e2-8cf5-2ac7d94d41bb.png)
